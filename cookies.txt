@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+proformanceroofs.com	TRUE	/	FALSE	1999999999	SEOT	#1
+proformanceroofs.com	TRUE	/	FALSE	1999999999	T	!!
+proformanceroofs.com	TRUE	/	FALSE	1999999999	SEOV	#42
+www.proformanceroofs.com	TRUE	/	FALSE	1999999999	TS01dc6f8b	0184cfe7a65c417e59f3848d1833f5820ec0010e158881dad141ce76d41361979e6242d629da35149c26e42e5a81b7b39a93c974b4
+proformanceroofs.com	TRUE	/	FALSE	1999999999	TS01be8856	0184cfe7a688c0a3d521255a8d05fdfb0e6076e36784665a3d002dfe9232628d8db43e07e3d60662dd993d648cf54401307e80e66770f155dcc8dd9787e8f1ab1fa49534d72fabce72a8b3d6ae19a6625d6e923ac9eaf80385936d4e15dfba4ea301933b41
+

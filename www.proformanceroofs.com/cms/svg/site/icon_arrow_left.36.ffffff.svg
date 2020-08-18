@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36">
+<style>
+	g path { stroke: none; }
+</style>
+<g class="root" id="arrow_left" data-name="arrow-left" fill="#ffffff" stroke="#ffffff">
+	<path d="M8 18l1.5-1.6L24.8 0L28 3.2L14.1 18L28 32.8L24.8 36L9.4 19.6Z" />
+</g>
+</svg>

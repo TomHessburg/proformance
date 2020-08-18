@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+<style>
+.root {
+	display:none;
+}
+
+.root:target {
+	display: block;
+}
+</style>
+
+<g class="root" id="header" viewBox="0 0 331 19.8">
+	<g class="center">
+		<path class="line" d="M165.5,14.6h-82" style="stroke-dashoffset: 82; stroke-dasharray: 82;"/>
+		<path class="line" d="M165.5,14.6h83" style="stroke-dashoffset: 83; stroke-dasharray: 83;"/>
+		<path class="line" d="M165.5,10.6H0.5" style="stroke-dashoffset: 165; stroke-dasharray: 165;"/>
+		<path class="line" d="M165.5,10.6h165" style="stroke-dashoffset: 165; stroke-dasharray: 165;"/>
+		<path class="line" d="M178.8,15.1L165.5,0.5l-13.8,14.6" style="stroke-dashoffset: 42; stroke-dasharray: 42;"/>
+		<path class="line" d="M141.8,18.6L156.3,4l0,0c5.1,5.1,13.3,5.1,18.4,0l0,0l14.5,14.6" style="stroke-dashoffset: 62; stroke-dasharray: 62;"/>
+	</g>	
+	<g class="left">
+		<path class="line long-line" d="M0.5,14.6h330" style="stroke-dashoffset: 330; stroke-dasharray: 330;"/>
+		<path class="line long-line" d="M0.5,10.6h330" style="stroke-dashoffset: 330; stroke-dasharray: 330;"/>
+		<path class="line" d="M9.9,15.1L24.5,0.5l14.6,14.6" style="stroke-dashoffset: 42; stroke-dasharray: 42;"/>
+		<path class="line" d="M0.8,18.6L15.3,4l0,0c5.1,5.1,13.3,5.1,18.4,0l0,0l14.5,14.6" style="stroke-dashoffset: 62; stroke-dasharray: 62;"/>
+	</g>	
+	<g class="right">
+		<path class="line long-line" d="M330.5,14.6H0.5" style="stroke-dashoffset: 330; stroke-dasharray: 330;"/>
+		<path class="line line long-line" d="M330.5,10.6H0.5"  style="stroke-dashoffset: 330; stroke-dasharray: 330;"/>
+		<path class="line" d="M321.1,15.1L306.5,0.5l-14.6,14.6" style="stroke-dashoffset: 42; stroke-dasharray: 42;"/>
+		<path class="line" d="M330.2,19.6L315.7,5l0,0c-5.1,5.1-13.3,5.1-18.4,0l0,0l-14.5,14.6" style="stroke-dashoffset: 62; stroke-dasharray: 62;"/>
+	</g>
+</g>
+
+<g class="root" id="arrow-right" viewBox="0 0 36 36">
+	<path class="line" d="M0.5 17.5l17 17l17-17L17.5 0.5Z"  style="stroke-dashoffset: 97; stroke-dasharray: 97;"/>
+	<path class="line" d="M0.94 17.5h23.4"  style="stroke-dashoffset: 25; stroke-dasharray: 25;"/>
+	<polyline class="line" points="17.71 10.27 25.1 17.66 17.96 24.81" style="stroke-dashoffset: 25; stroke-dasharray: 25;"/>
+</g>
+
+<g class="root" id="arrow-up" viewBox="0 0 36 36">
+	<path class="line" d="M17.5 34.5l17-17l-17-17l-17 17L17.5 34.5z"   style="stroke-dashoffset: 97; stroke-dasharray: 97;"/>
+	<path class="line" d="M17.5 34.1V10.7" style="stroke-dashoffset: 25; stroke-dasharray: 25;"/>
+	<polyline class="line" points="10.1 17.5 17.5 10.1 24.6 17.3" style="stroke-dashoffset: 25; stroke-dasharray: 25;"/>
+</g>	
+
+<g class="root" id="arrow-left" viewBox="0 0 36 36">
+	<path class="line" d="M34.5 17.5L17.5 0.5l-17 17l17 17Z"  style="stroke-dashoffset: 97; stroke-dasharray: 97;" />
+	<path class="line" d="M34.06 17.5H10.67" style="stroke-dashoffset: 25; stroke-dasharray: 25;"/>
+	<polyline class="line" points="17.71 25.14 10.31 17.75 17.46 10.6" style="stroke-dashoffset: 25; stroke-dasharray: 25;"/>
+</g>
+
+<g class="root" id="arrow-down" viewBox="0 0 36 36">
+	<path class="line" d="M17.5 0.5l-17 17l17 17l17-17Z"  style="stroke-dashoffset: 97; stroke-dasharray: 97;" />
+	<path class="line" d="M17.5 0.94v23.4" style="stroke-dashoffset: 25; stroke-dasharray: 25;"/>
+	<polyline class="line" points="25.14 17.71 17.75 25.1 10.6 17.96" style="stroke-dashoffset: 25; stroke-dasharray: 25;"/>
+</g>
+
+</svg>
+
+
